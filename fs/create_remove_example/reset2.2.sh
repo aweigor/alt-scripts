@@ -3,7 +3,7 @@
 
 cd /mnt/new_disk/
 rm -rf * 
-cd ~/
+cd ../
 umount /mnt/new_disk
 rm /tmp/my_sys_2M.img
 rmdir /mnt/new_disk
